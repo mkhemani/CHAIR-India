@@ -1,2 +1,2 @@
 # CHAIR-India
-The tool displays The CHAIR (Consortium for Climate, Health &amp; Air Pollution Research in India) research group is a global collaboration for air pollution research across India. 
+General code to process PM 2.5 point data at different geographic units. 
